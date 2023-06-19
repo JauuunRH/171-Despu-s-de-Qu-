@@ -25,9 +25,9 @@ system ("pause>null");}
 
 do{
 system ("cls");
-cout << "1. Registrar Libro";
+cout << "\n 1. Registrar Libro";
 cout << "\n 2. Mostrar registro";
-cout << "\n 3. Salir";
+cout << "\n 3. Salir" <<endl;
 cout << "Que deseas Hacer?";
 cin >> (op);
 
